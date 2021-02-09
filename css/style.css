@@ -1,0 +1,115 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+    color: #18191F;
+    }
+h1, h2, h3, h4, p, div {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+    }
+.step {
+        width: 1450px;
+        height: 628px;
+        background-color: #D5FAFC;
+        margin: 0 auto;
+        box-sizing: border-box;
+    }
+.step-left {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        padding: 246px 95px 246px 165px;
+        width: 705px;
+        height: 628px;
+        display: inline-block;
+        background-color: #2EC5CE;
+        float: left;
+           
+    }    
+.step-left h2 {
+        width: 445px;
+        height: 64px;
+        font-weight: 800;
+        font-size: 48px;
+        line-height: 64px;
+    }
+.step-left-description {
+        width: 445px;
+        height: 64px;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 32px;
+                
+    }
+.step-right {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 40px;
+        margin: 32px 165px 32px 0px;
+        width: 570px;
+        height: 564px;
+        display: inline-block;
+        background-color: white;
+    }
+.step-right-img {
+        
+        margin-bottom: 26px;
+        margin-left: 410px;
+        box-sizing: border-box;
+        width: 80px;
+        height: 68px;
+    }
+.step-right-people {
+        
+        margin-bottom: 24px;
+        height: 56px;
+    }
+.step-right-people img {
+        display: inline-block;
+        vertical-align: middle;
+        float: left;
+    }
+.img-text {
+        display: inline-block;
+        margin-left: 16px;
+    }
+.img-text-1 {
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 28px;
+        width: 183px;
+        height: 28px;
+    }
+.img-text-2 {
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        width: 183px;
+        height: 24px;
+    }
+       
+.step-right-description {
+        font-family: Manrope;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        line-height: 32px;
+        margin-bottom: 40px;
+        height: 224px;
+    }
+.step-right-logo {
+        height: 40px;
+          
+    }
+.step-right-logo img {
+        vertical-align: middle;
+        display: inline-block;
+    }
+.vector-left {
+    margin-left: 248px;
+    }
+.vector-right {
+    margin-left: 40px;
+    }
