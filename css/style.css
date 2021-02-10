@@ -103,6 +103,9 @@ h1, h2, h3, h4, p, div {
         height: 40px;
           
     }
+    .logo:hover {
+        border: red 4px solid;
+    }
 .step-right-logo img {
         vertical-align: middle;
         display: inline-block;
@@ -110,6 +113,14 @@ h1, h2, h3, h4, p, div {
 .vector-left {
     margin-left: 248px;
     }
+    .vector-left:hover {
+        background-color: aqua;
+        border: black 2px solid;
+    }
 .vector-right {
     margin-left: 40px;
+    }
+    .vector-right:hover {
+        background-color: aqua;
+        border: black 2px solid;
     }
